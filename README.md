@@ -1,1 +1,1 @@
-This is my introduction to git workflow
+This is my introduction to git workflow.
